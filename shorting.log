@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.6.25)  2 JUL 2018 18:58
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.6.25)  11 JUL 2018 21:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,115 +6,75 @@ entering extended mode
 (./shorting.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/curve/curve.cls
-Document Class: curve 2010/12/14 v1.16 Curriculum Vitae class for LaTeX2e
-(/usr/share/texlive/texmf-dist/tex/latex/carlisle/ltxtable.sty
-Package: ltxtable 1995/12/11 v0.2 longtable/tabularx merge (DPC)
-
-(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
-
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
-\col@sep=\dimen102
-\extrarowheight=\dimen103
-\NC@list=\toks14
-\extratabsurround=\skip41
-\backup@length=\skip42
-)
-\TX@col@width=\dimen104
-\TX@old@table=\dimen105
-\TX@old@col=\dimen106
-\TX@target=\dimen107
-\TX@delta=\dimen108
-\TX@cols=\count79
-\TX@ftn=\toks15
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip43
-\LTright=\skip44
-\LTpre=\skip45
-\LTpost=\skip46
-\LTchunksize=\count80
-\LTcapwidth=\dimen109
-\LT@head=\box26
-\LT@firsthead=\box27
-\LT@foot=\box28
-\LT@lastfoot=\box29
-\LT@cols=\count81
-\LT@rows=\count82
-\c@LT@tables=\count83
-\c@LT@chunks=\count84
-\c@table=\count85
-\LT@p@ftn=\toks16
-))
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count86
-\calc@Bcount=\count87
-\calc@Adimen=\dimen110
-\calc@Bdimen=\dimen111
-\calc@Askip=\skip47
-\calc@Bskip=\skip48
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count88
-\calc@Cskip=\skip49
-)
-(/usr/share/texlive/texmf-dist/tex/latex/filehook/filehook.sty
-Package: filehook 2011/10/12 v0.5d Hooks for input files
-)
-\@almosttextwidth=\skip50
-\subrubricbeforespace=\skip51
-\subrubricspace=\skip52
-\rubricspace=\skip53
-\rubricafterspace=\skip54
-\headerspace=\skip55
-\photosep=\skip56
-\photo@width=\skip57
-\leftheader@width=\skip58
-\rightheader@width=\skip59
-\titlespace=\skip60
-\c@bibcount=\count89
-\c@bibtotal=\count90
-
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
-)) (./shorting.aux)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./shorting.aux)
 \openout1 = `shorting.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+Missing character: There is no ए in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no क in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no भ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ा in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no र in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no त in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no स in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no र in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ् in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no व in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no श in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ् in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no र in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no े in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ठ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no भ in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no ा in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no र in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no त in font [lmroman17-regular]:mapping=tex-text;!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.19 \makerubric{rubric}
-                        ^^M
-*** (cannot \read from terminal in nonstop modes)
+[1
 
- 
+] (./shorting.aux) ) 
 Here is how much of TeX's memory you used:
- 706 strings out of 492982
- 9580 string characters out of 6134896
- 63817 words of memory out of 5000000
- 4333 multiletter control sequences out of 15000+600000
- 4892 words of font info for 18 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 35i,2n,21p,172b,107s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 228 strings out of 493007
+ 2534 string characters out of 6136719
+ 61819 words of memory out of 5000000
+ 4272 multiletter control sequences out of 15000+600000
+ 6400 words of font info for 26 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 22i,6n,17p,140b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on shorting.pdf (1 page).
