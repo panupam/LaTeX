@@ -1,0 +1,10 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage{devanagari}
+\title{\dn hamaarii monaa}
+\author{\dn pra.nava kumaara anupama}
+
+\begin{document}
+\maketitle
+{\dn monaa, naama to sunaa hogaa | ajii vahii monaa jo saba dina se hamaare saatha hii rahatii thii | khelatii thii | hamaare saatha hii apanaa vakta .jaayaa karatii thii |
+ }
+\end{document}
