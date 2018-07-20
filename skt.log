@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.6.25)  13 JUL 2018 18:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.6.25)  19 JUL 2018 09:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -40,8 +40,6 @@ LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/dn/m/n on input line 6.
@@ -55,16 +53,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 7.
- [1
+)
+! Emergency stop.
+<*> skt.tex
+           
+*** (job aborted, no legal \end found)
 
-] (./skt.aux) ) 
+ 
 Here is how much of TeX's memory you used:
- 405 strings out of 493007
- 4401 string characters out of 6136719
- 66149 words of memory out of 5000000
- 4447 multiletter control sequences out of 15000+600000
- 5988 words of font info for 24 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 22i,7n,19p,178b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on skt.pdf (1 page).
+ 396 strings out of 492982
+ 4252 string characters out of 6134896
+ 57777 words of memory out of 5000000
+ 4040 multiletter control sequences out of 15000+600000
+ 5892 words of font info for 21 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 22i,7n,19p,132b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

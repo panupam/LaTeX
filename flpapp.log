@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.6.25)  16 JUL 2018 18:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.6.25)  17 JUL 2018 13:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -35,38 +35,77 @@ LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 
-Overfull \hbox (1.13733pt too wide) in paragraph at lines 8--8
-[]\OT1/cmr/m/n/10 I have paid IIT Kan-pur for For-eign Lan-guage Pro-gram and m
-ess dues of June '18.
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 9--9
+[]\OT1/cmtt/m/n/10 I have paid IIT Kanpur for Foreign Language Program and mess
+ dues of
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 9--9
+\OT1/cmtt/m/n/10 June `18. I am attaching SBI collect Receipts of the transacti
+ons
+ []
+
+
+Overfull \hbox (27.74675pt too wide) in paragraph at lines 9--9
+\OT1/cmtt/m/n/10 with this application. Also I have to pay Registration fee for
+ Session
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 9--9
+\OT1/cmtt/m/n/10 2018-19 Ist semester. I am attaching fee structure of the same
+ with
+ []
+
+
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 9--9
+\OT1/cmtt/m/n/10 it. Applicable category is Undergraduate 2016 batch Most Econo
+mically
  []
 
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.12 \hline
+l.14 \hline
            
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
+! Extra }, or forgotten \endgroup.
+l.17 ...n account to Saving Bank Account. Thanks.}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Overfull \hbox (27.74675pt too wide) in paragraph at lines 17--18
+[]\OT1/cmtt/m/n/10 Kindly, transfer amount of RUPEES TWENTY-TWO THOUSAND AND SE
+VENTY-THREE
+ []
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 16.
+(Font)              <7> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 16.
+(Font)              <5> on input line 18.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./flpapp.aux) ) 
 Here is how much of TeX's memory you used:
- 152 strings out of 492982
- 1698 string characters out of 6134896
- 54917 words of memory out of 5000000
- 3799 multiletter control sequences out of 15000+600000
- 4068 words of font info for 15 fonts, out of 8000000 for 9000
+ 154 strings out of 492982
+ 1719 string characters out of 6134896
+ 55917 words of memory out of 5000000
+ 3800 multiletter control sequences out of 15000+600000
+ 4236 words of font info for 16 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,6n,18p,176b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,6n,18p,372b,196s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/tfrupee/tfrupee.pfb>
-Output written on flpapp.pdf (1 page, 114135 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/tfrupee/tfrupee.pfb>
+Output written on flpapp.pdf (1 page, 110797 bytes).
 PDF statistics:
  16 PDF objects out of 1000 (max. 8388607)
  10 compressed objects within 1 object stream
