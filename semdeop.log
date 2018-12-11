@@ -1,0 +1,114 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  16 NOV 2018 11:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**semdeop.tex
+(./semdeop.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/letter.cls
+Document Class: letter 2014/09/29 v1.2z Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\longindentation=\dimen102
+\indentedwidth=\dimen103
+\labelcount=\count79
+) (./semdeop.aux)
+\openout1 = `semdeop.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+Overfull \hbox (32.9967pt too wide) in paragraph at lines 8--8
+[]\OT1/cmtt/m/n/10 I have been addicted to Netflix for around a year now. Thing
+s escalated
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 8--8
+\OT1/cmtt/m/n/10 fast for normal to worst by passing days. I thought I can batt
+le it
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 8--8
+\OT1/cmtt/m/n/10 by myself but it didn't happened. I tried many times but after
+ a few
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 8--8
+\OT1/cmtt/m/n/10 days it became much worst and this cycle continued. This affac
+ted
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 8--8
+\OT1/cmtt/m/n/10 my academic a lot. At this point it seems it can not be treate
+d by
+ []
+
+
+Overfull \hbox (43.49661pt too wide) in paragraph at lines 8--8
+\OT1/cmtt/m/n/10 myself. I talked to our department counsellor and our head of 
+department.
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 8--8
+\OT1/cmtt/m/n/10 According to them, at this point, semester drop and treatment 
+with
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 8--8
+\OT1/cmtt/m/n/10 Dr. Alok Bajpayi for the addiction seems only option as otherw
+ise
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 8--9
+[]\OT1/cmtt/m/n/10 Sir considering all these things kindly grant me semester dr
+op for
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 9.
+
+Overfull \hbox (68.9967pt too wide) in paragraph at lines 14--18
+[][] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./semdeop.aux) ) 
+Here is how much of TeX's memory you used:
+ 140 strings out of 492982
+ 1443 string characters out of 6134895
+ 55934 words of memory out of 5000000
+ 3791 multiletter control sequences out of 15000+600000
+ 3808 words of font info for 15 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,6n,18p,682b,196s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on semdeop.pdf (1 page, 19022 bytes).
+PDF statistics:
+ 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
