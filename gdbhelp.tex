@@ -1,0 +1,21 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage{amsmath}
+\usepackage{fullpage}
+\title{GDB Help}
+\author{Pranav K Anupam}
+\begin{document}
+\maketitle
+Procedure 
+\begin{itemize}
+\item compile the program using gcc -g problem.c
+\item execute using gdb a.out 
+\item to see the code type command "layout next". It will show you empty window first but after giving command run 
+\item to redirect input type run < input.txt
+\item to go to shell type command shell
+\item set break points 
+\item c or continue: Debugger will continue executing until the next break point
+\item n or next: Debugger will execute the next line as single instruction. 
+\item s or step: Same as next, but does not treats function as a single instruction, instead goes into the function and executes it line by line 
+\end{itemize}
+
+\end{document}
