@@ -1,10 +1,7 @@
 \documentclass[12pt,a4paper]{article}
 \usepackage{devanagari}
-\title{\dn hamaarii }
-\author{\dn pra.nava kumaara anupama}
+\author{\dn pra.nava kumAr anupama}
 
 \begin{document}
 \maketitle
-{\dn monA naama to sunaa hogaa | ajI vahI monA jo saB dina se hamAre sAtH hI rahatI thI | kheLtI thii | hamAre sAtha hI apanA vakT jaayaa karatii thii |
- }
 \end{document}
